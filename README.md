@@ -10,11 +10,13 @@ This is a simple utility to generate random passwords with customizable options 
   - cmake (version 3.21 or higher)
   - C++ compiler (supporting C++17 or higher)
   - Git (for cloning the repository)
+
 ## Building the Project
-    1. **Clone the Repository:**
-       ```sh
-       git clone    
-       ```
+To build the project, follow these steps:
+1. **Clone the Repository:**
+     ```sh
+     git clone    
+     ```
 2. **Create Build Directory:**
        ```sh
        mkdir build
