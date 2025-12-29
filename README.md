@@ -18,19 +18,23 @@ To build the project, follow these steps:
      git clone    
      ```
 2. **Create Build Directory:**
+
        ```sh
        mkdir build
        cd build
        ```
 3. **Run CMake:**
+
        ```sh
        cmake ..
        ```
 4. **Build the Project:**
+
        ```sh
        make
        ```
 5. **Test:**
+
 Once built, you have several options to run the tests:
 Option 1: Using ctest (recommended)
 
